@@ -5,7 +5,7 @@ void main() => runApp (
         home:Scaffold(
           backgroundColor: Colors.blueGrey[800],
           appBar: AppBar(
-            title: Text('hello worlds'),
+            title: Text('hello world'),
             backgroundColor: Colors.blueGrey[900],
           ),
           body: Center(
